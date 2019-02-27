@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Temp\Calculator\Calculator\bin\Debug\Calculator.exe.config
+\\Mac\Home\Documents\Temp\Calculator\Calculator\bin\Debug\Calculator.exe
+\\Mac\Home\Documents\Temp\Calculator\Calculator\bin\Debug\Calculator.pdb
+\\Mac\Home\Documents\Temp\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Temp\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+\\Mac\Home\Documents\Temp\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+\\Mac\Home\Documents\Temp\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Temp\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Temp\Calculator\Calculator\obj\Debug\Calculator.exe
+\\Mac\Home\Documents\Temp\Calculator\Calculator\obj\Debug\Calculator.pdb
