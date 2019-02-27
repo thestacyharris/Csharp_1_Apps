@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Temp\NoteApp\NoteApp\obj\Debug\NoteApp.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Temp\NoteApp\NoteApp\obj\Debug\NoteApp.Form1.resources
+\\Mac\Home\Documents\Temp\NoteApp\NoteApp\obj\Debug\NoteApp.Properties.Resources.resources
+\\Mac\Home\Documents\Temp\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Temp\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Temp\NoteApp\NoteApp\bin\Debug\NoteApp.exe.config
+\\Mac\Home\Documents\Temp\NoteApp\NoteApp\bin\Debug\NoteApp.exe
+\\Mac\Home\Documents\Temp\NoteApp\NoteApp\bin\Debug\NoteApp.pdb
+\\Mac\Home\Documents\Temp\NoteApp\NoteApp\obj\Debug\NoteApp.exe
+\\Mac\Home\Documents\Temp\NoteApp\NoteApp\obj\Debug\NoteApp.pdb
