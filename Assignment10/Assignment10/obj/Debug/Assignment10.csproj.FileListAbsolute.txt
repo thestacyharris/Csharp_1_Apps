@@ -1,0 +1,10 @@
+C:\Users\jeebz\source\repos\Assignment10\Assignment10\obj\Debug\Assignment10.csprojAssemblyReference.cache
+C:\Users\jeebz\source\repos\Assignment10\Assignment10\obj\Debug\Assignment10.Form1.resources
+C:\Users\jeebz\source\repos\Assignment10\Assignment10\obj\Debug\Assignment10.Properties.Resources.resources
+C:\Users\jeebz\source\repos\Assignment10\Assignment10\obj\Debug\Assignment10.csproj.GenerateResource.cache
+C:\Users\jeebz\source\repos\Assignment10\Assignment10\obj\Debug\Assignment10.csproj.CoreCompileInputs.cache
+C:\Users\jeebz\source\repos\Assignment10\Assignment10\bin\Debug\Assignment10.exe.config
+C:\Users\jeebz\source\repos\Assignment10\Assignment10\bin\Debug\Assignment10.exe
+C:\Users\jeebz\source\repos\Assignment10\Assignment10\bin\Debug\Assignment10.pdb
+C:\Users\jeebz\source\repos\Assignment10\Assignment10\obj\Debug\Assignment10.exe
+C:\Users\jeebz\source\repos\Assignment10\Assignment10\obj\Debug\Assignment10.pdb
