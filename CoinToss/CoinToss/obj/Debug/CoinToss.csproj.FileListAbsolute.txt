@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Temp\CoinToss\CoinToss\bin\Debug\CoinToss.exe.config
+\\Mac\Home\Documents\Temp\CoinToss\CoinToss\bin\Debug\CoinToss.exe
+\\Mac\Home\Documents\Temp\CoinToss\CoinToss\bin\Debug\CoinToss.pdb
+\\Mac\Home\Documents\Temp\CoinToss\CoinToss\obj\Debug\CoinToss.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Temp\CoinToss\CoinToss\obj\Debug\CoinToss.Form1.resources
+\\Mac\Home\Documents\Temp\CoinToss\CoinToss\obj\Debug\CoinToss.Properties.Resources.resources
+\\Mac\Home\Documents\Temp\CoinToss\CoinToss\obj\Debug\CoinToss.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Temp\CoinToss\CoinToss\obj\Debug\CoinToss.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Temp\CoinToss\CoinToss\obj\Debug\CoinToss.exe
+\\Mac\Home\Documents\Temp\CoinToss\CoinToss\obj\Debug\CoinToss.pdb
